@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lifeline</string>
+    <string name="start_1">[incoming communication]</string>
+    <string name="start_2">[establishing connection]</string>
+    <string name="start_3">[receiving message]</string>
+
+    <string name="story_greeting">Hello?</string>
+    <string name="story_greeting_two">Is this thing working?</string>
+    <string name="story_greeting_three">Can anyone read me?</string>
+    <string name="button_left_Who_is_this_sone">Who is this?</string>
+    <string name="button_right_I_read_you_one">I read you.</string>
+
+    <string name="story_from_whoisthis_one">Right. right. sorry. Should\'ve started with that.</string>
+    <string name="story_from_whoisthis_two">I was just excited to get a response to my signal.</string>
+    <string name="story_from_whoisthis_three">My name\'s Sidratul. I was a... an astronaut on board the starship Varia.</string>
+    <string name="button_left_The_Varia_two">The Varia?</string>
+    <string name="button_right_what_happened_two">\"was?\" what happened?</string>
+
+    <string name="story_from_The_varia_one">The varia was a transport ship. Nothing fancy. Crew of less than a dozen.</string>
+    <string name="story_from_The_varia_two">We were en route to tau Ceti IV snd. as far as I knew. everythig were going fine!</string>
+    <string name="story_from_The_varia_three">We were set to dock in six more days.</string>
+    <string name="story_from_The_varia_four">But then... I don\'t know what happened. We crashed on some moon.</string>
+    <string name="story_from_The_varia_five">I don\'t know where</string>
+    <string name="button_left_How_do_you_not_know_three">How do you not know?</string>
+    <string name="button_right_Try_using_a_map_three">Try using a map.</string>
+
+
+</resources>
